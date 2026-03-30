@@ -1,0 +1,1 @@
+# Crimson-Desert-Mod-Manager-2026
